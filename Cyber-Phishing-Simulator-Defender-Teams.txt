@@ -1,0 +1,20 @@
+Team Name - Cyber-Phishing-Simulator-Defender
+Course - Application and Data Security
+Semester - 3rd 2025
+
+------------------------------------
+TEAM STRUCTURE & ROLES
+------------------------------------
+Team Lead / Coordinator:
+→ Varun Sharma (ID:2415001756)
+   - Schedules, approvals, overall management
+
+Offensive Lead:
+→ Varun Sharma (ID:2415001756)
+   - Builds phishing simulator, adds safety checks
+
+Defensive Lead:
+→ Rohit Mehra (ID: 2415001812)
+   - Builds email filter and domain similarity detector
+------------------------------------
+------------------------------------
